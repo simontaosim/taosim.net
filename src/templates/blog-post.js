@@ -15,9 +15,7 @@ export const BlogPostTemplate = ({
   helmet,
   image
 }) => {
-  const PostContent = contentComponent || Content
-  console.log({image});
-  
+  const PostContent = contentComponent || Content;
   return (
     <div>
       <div
