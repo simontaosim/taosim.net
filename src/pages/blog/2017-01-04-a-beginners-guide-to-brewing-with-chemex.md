@@ -18,7 +18,7 @@ This week we’ll **take** a look at all the steps required to make astonishing 
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
 
-[object Object]
+<video controls="" autoplay="" name="media" style="width: 100%;"><source src="http://67.209.177.130:8080/ipfs/QmNikNWhbePNoK8SJ3PZ8CUTFm5TGVXATFZqqKyuTcXn19" type="video/mp4" /></video>
 
 The little secrets of Chemex brewing
 
