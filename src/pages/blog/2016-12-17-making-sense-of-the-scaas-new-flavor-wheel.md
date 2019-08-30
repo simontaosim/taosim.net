@@ -13,4 +13,4 @@ tags:
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-youtube Oer8HiEGx-k
+<img src="http://img.youtube.com/vi/Oer8HiEGx-k/maxresdefault.jpg" alt="Youtube Video"/>
