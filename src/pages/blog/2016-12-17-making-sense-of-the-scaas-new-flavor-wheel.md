@@ -13,4 +13,4 @@ tags:
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-<img src="http://img.youtube.com/vi/Oer8HiEGx-k/maxresdefault.jpg" alt="Youtube Video"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oer8HiEGx-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
