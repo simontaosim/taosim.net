@@ -37,6 +37,10 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
+        style={{
+          width: "100%",
+          position: "fixed"
+        }}
       >
         <div className="container">
           <div className="navbar-brand">
@@ -76,6 +80,9 @@ const Navbar = class extends React.Component {
               </Link>
               <Link className="navbar-item" to="/contact/examples">
                 专题
+              </Link>
+              <Link className="navbar-item" to="/about">
+                关于
               </Link>
             </div>
             {/* <div className="navbar-end has-text-centered">
